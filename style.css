@@ -23,6 +23,10 @@ ul {
     text-decoration: none;
 }
 
+a {
+    padding: 25px;
+}
+
 .list-styled, a {
     background: #fed2d7;
     color: rgb(44, 41, 40);
